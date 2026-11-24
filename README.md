@@ -25,7 +25,7 @@ This project is a two-player game where players take turns placing X and O on a 
 ## 📂 Project Structure
 
 ```text
-TIC-TAC-TOE-Game/
+X-O-Game-/
 │
 ├── demo/
 │   ├── pom.xml
@@ -54,16 +54,16 @@ Make sure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mhmd0114813361765-star/TIC-TAC-TOE-Game.git
+git clone https://github.com/mhmd0114813361765-star/X-O-Game-.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd TIC-TAC-TOE-Game/demo
+cd X-O-Game-/demo
 ```
 
-3. Run the application using Maven (if the JavaFX Maven plugin is configured):
+3. Run the application using Maven:
 
 ```bash
 mvn clean javafx:run
@@ -86,7 +86,7 @@ Computer Science Student | Java Developer
 
 ## 📌 Repository
 
-[GitHub – TIC-TAC-TOE-Game](https://github.com/mhmd0114813361765-star/TIC-TAC-TOE-Game)
+[GitHub – X-O-Game-](https://github.com/mhmd0114813361765-star/X-O-Game-)
 
 ---
 
